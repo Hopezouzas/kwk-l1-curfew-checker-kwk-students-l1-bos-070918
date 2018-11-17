@@ -1,4 +1,4 @@
-def simple_curfew_checker(12))
+def simple_curfew_checker(12)
   if time == 11 
     puts "You're in trouble! Better get home quick"
     elsif time > 11 
