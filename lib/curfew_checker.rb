@@ -32,6 +32,6 @@ end
 
 def platinum_curfew_checker(current_time, curfew_time)
   if curfew_time == 11 && current_time == 9 
-    puts "You have 2 hours left to keep having fun!"
+     "You have 2 hours left to keep having fun!"
 end
 end
