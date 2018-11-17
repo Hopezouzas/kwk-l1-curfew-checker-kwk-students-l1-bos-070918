@@ -5,7 +5,7 @@ def simple_curfew_checker(time)
     puts "You're in trouble! Better get home quick"
 end
 end 
-time.to.s = 12
+
 
 def curfew_checker(time)
  if time == 11
