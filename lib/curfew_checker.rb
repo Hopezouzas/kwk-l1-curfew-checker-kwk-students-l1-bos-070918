@@ -31,7 +31,7 @@ puts "I have #{current_time} time"
 end
 
 def platinum_curfew_checker(current_time, curfew_time)
-  if curfew_time == 11 && current_time == 9 
+  if curfew_time == 11 == current_time == 9 
     puts "You have 2 hours left to keep having fun!"
 end
 end
